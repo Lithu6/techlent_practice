@@ -9,4 +9,3 @@ def test_add():
 def test_subtract():
 	assert cal.subtract(5, 2) == 3
 	assert cal.subtract(2, 1) == 1
-
